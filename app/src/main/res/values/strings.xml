@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">We Meet</string>
+    <string name="msg">Enter the secret code</string>
+    <string name="video_message">Please share your Secret code with your meeting members to start video call. And you should enter your name and numbers or symbol as secret code.</string>
+    <string name="hint_secretcode">Enter Secret code</string>
+    <string name="video_join">Join</string>
+    <string name="video_share">Share</string>
+
+</resources>

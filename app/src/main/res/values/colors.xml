@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="PrimaryColor" >#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#474D58</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="red">#F44336</color>
+    <color name="light_blue">#00CCF2</color>
+    <color name="blue">#4D7FF0</color>
+    <color name="dark_blue">#0374c4</color>
+    <color name="light_purple">#D9E0FB</color>
+    <color name="purple">#C87DED</color>
+    <color name="light_pink">#FBD9D9</color>
+    <color name="pink">#FF007C</color>
+    <color name="orange">#FF7A49</color>
+    <color name="yellow">#FF9800</color>
+    <color name="btn_blue_left">#0092FA</color>
+    <color name="btn_blue_middle">#12C4FA</color>
+    <color name="btn_blue_end">#0092FA</color>
+    <color name="btn_green_left">#0BBF5E</color>
+    <color name="btn_green_middle">#38EF7D</color>
+    <color name="btn_green_end">#0BBF5E</color>
+    <color name="green">#4caf50</color>
+    <color name="btn_edit">#5395A2</color>
+    <color name="btn_bmi">#84DEEF</color>
+    <color name="shadow">#C7D0F8</color>
+    <color name="profile_card_top">#7AEFA8</color>
+    <color name="profile_card_bottom">#63CCF0</color>
+    <color name="et_hint">#BABABA</color>
+    <color name="transparent35black">#5B000000</color>
+    <color name="transparent">#00000000</color>
+</resources>
